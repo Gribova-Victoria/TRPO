@@ -2,7 +2,7 @@
 name: User story
 about: Шаблон для user story
 title: ''
-labels: ТРПО
+labels: User story
 assignees: Gribova-Victoria
 
 ---
